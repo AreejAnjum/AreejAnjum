@@ -63,7 +63,7 @@
 
 ###
 
-<h4 align="left">Linkedin: https://www.linkedin.com/in/areejanjum/<br>Linktree: https://linktr.ee/areejanjum</h4>
+<h3 align="left">Linkedin: https://www.linkedin.com/in/areejanjum/<br>Linktree: https://linktr.ee/areejanjum</h3>
 
 ###
 
