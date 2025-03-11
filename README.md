@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/AreejAnjum/AreejAnjum/blob/main/bg.jpg"  />
+  <img height="150" src="https://github.com/AreejAnjum/AreejAnjum/blob/main/bg.png"  />
 </div>
 
 ###
