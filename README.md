@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/AreejAnjum/AreejAnjum/blob/main/bg.png"  />
+  <img height="200" src="https://github.com/AreejAnjum/AreejAnjum/blob/main/bg.png"  />
 </div>
 
 ###
@@ -19,15 +19,55 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<p align="left">📊 Data Analyst | AI Enthusiast | Front End Developer | Software Engineer<br><br>Turning Data into Actionable Insights 🚀<br><br>Hi, I’m Areej Anjum, an enthusiastic Data Analyst & AI Enthusiast with a strong foundation in Python, SQL, Excel, Power BI and Machine Learning. With 2+ years of experience in software and Font End Development. I specialize in data-driven solutions that enhance decision-making and business efficiency.<br><br>🔍 What I Do<br>✔ Analyze complex datasets to extract insights & trends 📊<br>✔ Build Dashboards & Reports using Power BI & Python 📈<br>✔ Wrie SQL Queries to extract and manipulate data from databases 🛠️<br>✔ Clean & Preprocess Data with Pandas & NumPy 🔍<br>✔ Develop automated data workflows & ETL pipelines ⚡<br>✔ Perform Data Analysis in Advanced Excel (Pivot Tables, VLOOKUP, Macros, What if analysis, Regression ) 📑<br><br><br>🛠 Tech Stack & Skills<br>✔Programming & Data Analysis: Python, SQL, Pandas, NumPy, Excel, Business Intelligence<br>✔Machine Learning & AI: TensorFlow, Keras, Data Visualization<br>✔Database Management: PostgreSQL, MySQL<br>✔Data Visualization: Power BI, Matplotlib, Seaborn<br>✔Google Cloud & Tools: Google Cloud, Firebase, BigQuery, ML APIs, Data & Image Processing<br>✔Web Development: React.js, Next.js, Material Ui, Tailwand Css, Bootstrap, Redux,<br><br>📢 Recent Highlights<br>🚀 Explored datasets to find trends and insights 📊<br>📊 Created dashboards in Power BI & Excel for data visualization 📈<br>🛠 Used SQL & Python to clean and analyze data 🔍<br>📑 Worked on real-world datasets for hands-on learning 💡<br><br><br>🌱 Currently Learning<br>📑 Advanced Machine Learning (Feature Engineering, Model Optimization)<br>🛠Big Data Processing (Apache Spark, Data Warehousing)<br>🐍 Advanced Python for Data Analysis (NumPy & Pandas Optimization, Vectorization, Parallel Processing)<br><br><br>📌 Let’s Connect!<br>Linkedin: https://www.linkedin.com/in/areejanjum/<br>Linktree: https://linktr.ee/areejanjum</p>
+<p align="left">📊 Data Analyst | AI Enthusiast | Front End Developer | Software Engineer<br><br>Turning Data into Actionable Insights 🚀<br><br>Hi, I’m Areej Anjum, an enthusiastic Data Analyst & AI Enthusiast with a strong foundation in Python, SQL, Excel, Power BI and Machine Learning. With 2+ years of experience in software and Font End Development. I specialize in data-driven solutions that enhance decision-making and business efficiency.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🔍 What I Do</h2>
+
+###
+
+<p align="left">✔Analyze complex datasets to extract insights & trends 📊<br>✔ Build Dashboards & Reports using Power BI & Python 📈<br>✔ Wrie SQL Queries to extract and manipulate data from databases 🛠️<br>✔ Clean & Preprocess Data with Pandas & NumPy 🔍<br>✔ Develop automated data workflows & ETL pipelines ⚡<br>✔ Perform Data Analysis in Advanced Excel (Pivot Tables, VLOOKUP, Macros, What if analysis, Regression ) 📑</p>
+
+###
+
+<h2 align="left">🛠 Tech Stack & Skills</h2>
+
+###
+
+<p align="left">✔Programming & Data Analysis: Python, SQL, Pandas, NumPy, Excel, Business Intelligence<br>✔Machine Learning & AI: TensorFlow, Keras, Data Visualization<br>✔Database Management: PostgreSQL, MySQL<br>✔Data Visualization: Power BI, Matplotlib, Seaborn<br>✔Google Cloud & Tools: Google Cloud, Firebase, BigQuery, ML APIs, Data & Image Processing<br>✔Web Development: React.js, Next.js, Material Ui, Tailwand Css, Bootstrap, Redux</p>
+
+###
+
+<h2 align="left">📢 Recent Highlights</h2>
+
+###
+
+<p align="left">🚀 Explored datasets to find trends and insights 📊<br>📊 Created dashboards in Power BI & Excel for data visualization 📈<br>🛠 Used SQL & Python to clean and analyze data 🔍<br>📑 Worked on real-world datasets for hands-on learning 💡</p>
+
+###
+
+<h2 align="left">🌱 Currently Learning</h2>
+
+###
+
+<p align="left">📑 Advanced Machine Learning (Feature Engineering, Model Optimization)<br>🛠Big Data Processing (Apache Spark, Data Warehousing)<br>🐍 Advanced Python for Data Analysis (NumPy & Pandas Optimization, Vectorization, Parallel Processing)</p>
+
+###
+
+<h2 align="left">📌 Let’s Connect!</h2>
+
+###
+
+<h4 align="left">Linkedin: https://www.linkedin.com/in/areejanjum/<br>Linktree: https://linktr.ee/areejanjum</h4>
+
+###
+
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
